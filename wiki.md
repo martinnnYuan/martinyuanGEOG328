@@ -20,8 +20,8 @@ One or several paragraphs.
 One or several paragraphs for subsection 3.
 
 ## See also
-- [Amap link](amap.com)
-- [Baidu Map link](map.baidu.com)
+- [Amap link](https://www.amap.com)
+- [Baidu Map link](https://map.baidu.com)
 - [Resource 3](url)
 
 ## References
